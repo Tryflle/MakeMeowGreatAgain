@@ -1,10 +1,10 @@
 {
-    "name": "Template Plugin",
+    "name": "makemeowgreatagain",
     "description": "A plugin for use as a template.",
     "authors": [
         {
-            "name": "You!",
-            "id": "YOUR_ID_HERE"
+            "name": "Tryfle",
+            "id": "makemeowgreatagain"
         }
     ],
     "main": "src/index.ts",
