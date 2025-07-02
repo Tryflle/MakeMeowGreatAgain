@@ -8,6 +8,7 @@
         }
     ],
     "main": "src/index.ts",
+    "hash": "dev",
     "vendetta": {
         "icon": "ic_badge_staff"
     }
