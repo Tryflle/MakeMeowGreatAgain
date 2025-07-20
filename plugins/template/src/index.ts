@@ -3,7 +3,7 @@ import { instead } from "@vendetta/patcher";
 import { logger } from "@vendetta";
 
 const SERVER_ID     = "1250917677078151268";
-const NEW_ICON_URL  = "https://media.discordapp.net/attachments/1250917677640450080/1393581686775611482/IMG_20250711_135626_315.jpg?ex=6873b195&is=68726015&hm=f9a51bd933a709cb48d04fbf42000e192c11e899efae802213850df819f641db&";
+const NEW_ICON_URL  = "https://raw.githubusercontent.com/Tryflle/MakeMeowGreatAgain/57c9cf47a676be4c27f7cbc54771a88783985e49/msmpicon.png;
 
 let patches: Array<() => void> = [];
 
