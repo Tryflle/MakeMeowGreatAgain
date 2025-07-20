@@ -3,7 +3,7 @@ import { instead } from "@vendetta/patcher";
 import { logger } from "@vendetta";
 
 const SERVER_ID     = "1250917677078151268";
-const NEW_ICON_URL  = "https://raw.githubusercontent.com/Tryflle/MakeMeowGreatAgain/57c9cf47a676be4c27f7cbc54771a88783985e49/msmpicon.png;
+const NEW_ICON_URL  = "https://raw.githubusercontent.com/Tryflle/MakeMeowGreatAgain/57c9cf47a676be4c27f7cbc54771a88783985e49/msmpicon.png";
 
 let patches: Array<() => void> = [];
 
